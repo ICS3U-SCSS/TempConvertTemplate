@@ -1,5 +1,4 @@
 ﻿/// Created by Mr. T
-/// June 2013
 /// To demonstrate creation of custom methods that use parameters and return values
 
 using System;
